@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ecomerse/static/css/main.4fbeb184.chunk.css",
+    "main.js": "/ecomerse/static/js/main.d5c52940.chunk.js",
+    "main.js.map": "/ecomerse/static/js/main.d5c52940.chunk.js.map",
+    "runtime-main.js": "/ecomerse/static/js/runtime-main.d0509158.js",
+    "runtime-main.js.map": "/ecomerse/static/js/runtime-main.d0509158.js.map",
+    "static/css/2.d470c34f.chunk.css": "/ecomerse/static/css/2.d470c34f.chunk.css",
+    "static/js/2.3a01dccc.chunk.js": "/ecomerse/static/js/2.3a01dccc.chunk.js",
+    "static/js/2.3a01dccc.chunk.js.map": "/ecomerse/static/js/2.3a01dccc.chunk.js.map",
+    "index.html": "/ecomerse/index.html",
+    "static/css/2.d470c34f.chunk.css.map": "/ecomerse/static/css/2.d470c34f.chunk.css.map",
+    "static/css/main.4fbeb184.chunk.css.map": "/ecomerse/static/css/main.4fbeb184.chunk.css.map",
+    "static/js/2.3a01dccc.chunk.js.LICENSE.txt": "/ecomerse/static/js/2.3a01dccc.chunk.js.LICENSE.txt",
+    "static/media/cart.e1cc5d23.svg": "/ecomerse/static/media/cart.e1cc5d23.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0509158.js",
+    "static/css/2.d470c34f.chunk.css",
+    "static/js/2.3a01dccc.chunk.js",
+    "static/css/main.4fbeb184.chunk.css",
+    "static/js/main.d5c52940.chunk.js"
+  ]
+}
